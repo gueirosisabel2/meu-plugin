@@ -1,6 +1,6 @@
 /**
  * Plugin Name: Meu Plugin CRUD
- * Plugin URI: https://www.exemplo.com/
+ * Plugin URI: https://www.isabeldesign.com.br/
  * Description: Plugin CRUD para WordPress com consulta no banco de dados birdpa30_migw e nas tabelas redirect_limit e redirect_ZDG.
  * Version: 1.0
  * Author: Seu Nome
